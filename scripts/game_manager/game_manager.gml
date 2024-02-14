@@ -1,0 +1,1 @@
+global.got_key = false;
