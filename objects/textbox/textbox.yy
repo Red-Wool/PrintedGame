@@ -29,6 +29,8 @@
   "physicsStartAwake": true,
   "properties": [
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"display_text","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Test Text","varType":2,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"text_speed","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"3","varType":1,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"text_sound","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"default_talk","varType":5,},
   ],
   "solid": false,
   "spriteId": null,

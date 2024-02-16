@@ -3,3 +3,4 @@
 
 text_box = instance_create_layer(x, y, "Text", textbox)
 text_box.display_text = text
+
