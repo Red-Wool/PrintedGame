@@ -90,6 +90,7 @@
     {"name":"inst_688E374B","path":"rooms/Game/Game.yy",},
     {"name":"inst_3E850F5F","path":"rooms/Game/Game.yy",},
     {"name":"inst_439D03CC","path":"rooms/Game/Game.yy",},
+    {"name":"inst_358483BB","path":"rooms/Game/Game.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -213,8 +214,13 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_688E374B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_note","path":"objects/obj_note/obj_note.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_note","path":"objects/obj_note/obj_note.yy",},"propertyId":{"name":"text","path":"objects/obj_note/obj_note.yy",},"value":"Find the BJ's Wholesale Club Discount at a tree north",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":224.0,"y":192.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3E850F5F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_end","path":"objects/obj_end/obj_end.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":-128.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3E850F5F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_end","path":"objects/obj_end/obj_end.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":-192.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_439D03CC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_balling","path":"objects/obj_balling/obj_balling.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":544.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_358483BB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_note","path":"objects/obj_note/obj_note.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_note","path":"objects/obj_note/obj_note.yy",},"propertyId":{"name":"text","path":"objects/obj_note/obj_note.yy",},"value":"Get Pranked",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_note","path":"objects/obj_note/obj_note.yy",},"propertyId":{"name":"start_sound","path":"objects/obj_note/obj_note.yy",},"value":"goofyahhwalk",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_note","path":"objects/obj_note/obj_note.yy",},"propertyId":{"name":"text_sound","path":"objects/obj_note/obj_note.yy",},"value":"Boom",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":-448.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"BackgroundObj","depth":510,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7609E0FE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lock","path":"objects/obj_lock/obj_lock.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":288.0,},

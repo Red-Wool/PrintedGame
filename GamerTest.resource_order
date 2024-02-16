@@ -21,6 +21,7 @@
     {"name":"obj_start","order":12,"path":"objects/obj_start/obj_start.yy",},
     {"name":"angry","order":4,"path":"objects/angry/angry.yy",},
     {"name":"Killer","order":1,"path":"objects/Killer/Killer.yy",},
+    {"name":"goofyahhwalk","order":7,"path":"sounds/goofyahhwalk/goofyahhwalk.yy",},
     {"name":"loud_talk","order":5,"path":"sounds/loud_talk/loud_talk.yy",},
     {"name":"spr_gate","order":16,"path":"sprites/spr_gate/spr_gate.yy",},
     {"name":"Boom","order":1,"path":"sounds/Boom/Boom.yy",},
