@@ -36,9 +36,11 @@
   "resources": [
     {"id":{"name":"spr_print_person_hor_r","path":"sprites/spr_print_person_hor_r/spr_print_person_hor_r.yy",},},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},},
+    {"id":{"name":"god","path":"sprites/god/god.yy",},},
     {"id":{"name":"angry","path":"objects/angry/angry.yy",},},
     {"id":{"name":"Killer","path":"objects/Killer/Killer.yy",},},
     {"id":{"name":"goofyahhwalk","path":"sounds/goofyahhwalk/goofyahhwalk.yy",},},
+    {"id":{"name":"spr_car_front","path":"sprites/spr_car_front/spr_car_front.yy",},},
     {"id":{"name":"Jumpscare1","path":"sounds/Jumpscare1/Jumpscare1.yy",},},
     {"id":{"name":"GUYDE","path":"objects/GUYDE/GUYDE.yy",},},
     {"id":{"name":"loud_talk","path":"sounds/loud_talk/loud_talk.yy",},},
