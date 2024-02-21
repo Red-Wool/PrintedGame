@@ -1,9 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_car_cutscene",
+  "name": "obj_bj",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
@@ -29,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_car_front",
-    "path": "sprites/spr_car_front/spr_car_front.yy",
+    "name": "spr_bj",
+    "path": "sprites/spr_bj/spr_bj.yy",
   },
   "spriteMaskId": null,
   "visible": true,

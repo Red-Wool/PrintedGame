@@ -9,11 +9,6 @@ if (instance_place(x,y,GUYDE))
 	instance_destroy(_instance)	
 }
 
-if !place_free(x+32, y)
-{
-	show_debug_message("right rightt r")	
-}
-
 kill(1)
 
 //show_debug_message(global.animals)

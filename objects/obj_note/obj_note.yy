@@ -30,6 +30,7 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"text","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":2,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"start_sound","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Boom","varType":5,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"text_sound","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"default_talk","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"knowledge","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":3,},
   ],
   "solid": false,
   "spriteId": {
