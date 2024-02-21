@@ -21,23 +21,23 @@ if (keyboard_check(vk_down))
 }
 
 //Collision
-if (place_meeting(x + 1 + accel_x,y,[obj_wall, obj_lock]))
+if (place_meeting(x + 1 + accel_x,y,collision_list))
 {
 	x -= (1 + accel_x)
 	accel_x = -.1
 }
-if (place_meeting(x - 1 - accel_x,y,[obj_wall, obj_lock]))
+if (place_meeting(x - 1 - accel_x,y,collision_list))
 {
 	x += 1 + accel_x
 	accel_x = .1
 }
 
-if (place_meeting(x,y+1+accel_y,[obj_wall, obj_lock]))
+if (place_meeting(x,y+1+accel_y,collision_list))
 {
 	y -= (1 + accel_y)
 	accel_y = -.1
 }
-if (place_meeting(x,y-1-accel_y,[obj_wall, obj_lock]))
+if (place_meeting(x,y-1-accel_y,collision_list))
 {
 	y += 1 + accel_y
 	accel_y = .1
